@@ -5,9 +5,9 @@ end
 
 def my_hash
   hash = {
-   name = "Alex",
-   age = 28
-   location = "San Francisco"
+   name : "Alex",
+   age : 28
+   location : "San Francisco"
   }
   return hash
 end

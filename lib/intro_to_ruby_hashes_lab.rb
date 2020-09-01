@@ -4,8 +4,10 @@ def new_hash
 end
 
 def my_hash
-  hash {
-   :key => value 
+  hash = {
+   name = "Alex",
+   age = 28
+   location = "San Francisco"
   }
   return hash
 end

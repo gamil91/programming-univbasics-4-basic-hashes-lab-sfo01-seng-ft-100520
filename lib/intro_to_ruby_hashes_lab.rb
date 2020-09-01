@@ -5,8 +5,8 @@ end
 
 def my_hash
   hash {
-    key => 1,
-    another => 2
+    :key => 1,
+    :another => 2
   }
 end
 

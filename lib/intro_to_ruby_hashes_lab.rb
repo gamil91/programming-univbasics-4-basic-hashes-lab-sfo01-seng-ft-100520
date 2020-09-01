@@ -4,12 +4,7 @@ def new_hash
 end
 
 def my_hash
-  hash = {
-   name : "Alex",
-   age : 28
-   location : "San Francisco"
-  }
-  return hash
+  
 end
 
 def pioneer

@@ -4,7 +4,10 @@ def new_hash
 end
 
 def my_hash
-  
+  hash = {
+    :key => "random"
+  }
+  return hash
 end
 
 def pioneer

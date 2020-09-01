@@ -5,9 +5,9 @@ end
 
 def my_hash
   hash {
-    "key" : 1,
-    "another" : 2
+   :key => value 
   }
+  return hash
 end
 
 def pioneer
